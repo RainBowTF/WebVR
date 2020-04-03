@@ -1,0 +1,242 @@
+[
+  {
+    "id": "proetokr",
+    "name": "proetokr",
+    "type": 1,
+    "position": [
+      4.03,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.002652025,
+      0.002652025,
+      0.002652025
+    ]
+  },
+  {
+    "id": "OptomaProjector",
+    "name": "OptomaProjector",
+    "type": 1,
+    "position": [
+      -5.78,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.0334306657,
+      0.0334306657,
+      0.0334306657
+    ]
+  },
+  {
+    "id": "proetokr",
+    "name": "proetokr1",
+    "type": 1,
+    "position": [
+      -3.41,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.002652025,
+      0.002652025,
+      0.002652025
+    ]
+  },
+  {
+    "id": "OptomaProjector",
+    "name": "OptomaProjector1",
+    "type": 1,
+    "position": [
+      1.91,
+      0.0,
+      -1.61
+    ],
+    "rotation": [
+      90.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.07,
+      0.07,
+      0.07
+    ]
+  },
+  {
+    "id": "OptomaProjector",
+    "name": "OptomaProjector2",
+    "type": 1,
+    "position": [
+      -1.95,
+      0.0,
+      -1.84
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.0334306657,
+      0.0334306657,
+      0.0334306657
+    ]
+  },
+  {
+    "id": "OptomaProjector",
+    "name": "OptomaProjector3",
+    "type": 1,
+    "position": [
+      1.82,
+      0.0,
+      1.68
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.0334306657,
+      0.0334306657,
+      0.0334306657
+    ]
+  },
+  {
+    "id": "OptomaProjector",
+    "name": "OptomaProjector4",
+    "type": 1,
+    "position": [
+      -1.11,
+      0.0,
+      1.34
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.0334306657,
+      0.0334306657,
+      0.0334306657
+    ]
+  },
+  {
+    "id": "proetokr",
+    "name": "proetokr2",
+    "type": 1,
+    "position": [
+      -5.23,
+      0.0,
+      0.95
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.002652025,
+      0.002652025,
+      0.002652025
+    ]
+  },
+  {
+    "id": "SimplePeople_HouseWife_White",
+    "name": "SimplePeople_HouseWife_White",
+    "type": 0,
+    "position": [
+      -1.64,
+      0.0,
+      -2.65
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      0.2968229,
+      0.2968229,
+      0.2968229
+    ]
+  },
+  {
+    "id": "SimplePeople_HouseWife_White",
+    "name": "SimplePeople_HouseWife_White1",
+    "type": 0,
+    "position": [
+      -1.59,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      90.0
+    ],
+    "scale": [
+      0.2968229,
+      0.2968229,
+      0.2968229
+    ]
+  },
+  {
+    "id": "SimplePeople_HouseWife_White",
+    "name": "SimplePeople_HouseWife_White2",
+    "type": 0,
+    "position": [
+      0.0,
+      0.0,
+      0.9
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      90.0
+    ],
+    "scale": [
+      0.4,
+      0.4,
+      0.4
+    ]
+  },
+  {
+    "id": "proetokr",
+    "name": "proetokr3",
+    "type": 1,
+    "position": [
+      2.04,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "scale": [
+      0.002652025,
+      0.002652025,
+      0.002652025
+    ]
+  }
+]
